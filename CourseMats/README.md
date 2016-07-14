@@ -7,3 +7,5 @@
 
 #### REPOSITORIES
 * [Bibliographies] (https://github.com/Historiomics/Historiomics/tree/master/CourseMats/Bibliographies)
+
+[![Tweet to @CourseMats](https://historiotheque.files.wordpress.com/2016/07/twitterbuttoncoursemats2.jpg)] (https://twitter.com/intent/tweet?screen_name=CourseMats)
