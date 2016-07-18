@@ -33,4 +33,16 @@
         - In a sense, we were developing a kind of graphic notation to help us make statements about History and Historiography;
     - Part of the inspiration was Michel Foucault's The Archaeology of Knowledge, as well as some of the work of Walter Benjamin, and some of the work of Gilles Deleuze and Félix Guattari, namely their book "What is Philosophy?";
     - We spoke in terms of aggregation, compression, compaction, consolidation, but also dispersal, discontinuities, breaks and gaps in things; we spoke of convergence and divergence, schedules, bases, periodicity, habits, habitats and (in-)habitation; ("habitance");
+
+### What In The World Are We Talking About?
+- Think of History as a space, an ambient eco-space;
+- Now imagine that through this space, things flow, i.e. energy flows, information flows, particulates flow, it doesn't matter for now what is flowing through the ambient space;
+- Now, imagine that there are certain other things that can form that can IMPEDE the flow of materials and/or energies;
+- In Historiomics, the technical term we use for this is the "Historiotome";
+- We say that a "historiotome" has "formed", that is, a kind of "outgrowth", almost tumor-like, that is causing an impediment of some sort to the natural flow of energy, information, particulate matter, objects, ideas, etc.;
+- You could also see it as a kind of "energetic knot"; or else one can think of it in Reichian terms of an "armor";
+- The idea here, still fictional - never forget! - is that an entire PEOPLE can have what we might call a "Character Depression";
+- That is, fictionally, and theoretically, a nation or a people, after some traumatic event, say a war or uprising, might feel the effects of the trauma AS A COLLECTIVITY; It is in this sense that we can speak of "historiopathies", disorders that are historical in origin;
+- Let us never forget that this is purely a fictional theory meant to reside inside a completely fictional, or "meta-fictional", historiographic novel;
+- The reason that it occurs inside a novel forms another, higher-order theory of representation and what is called "Physio-Imaging", in the theory of "Crackland" or "Historiomics", a.k.a. The History-Project / The Archives-Project (novelistic phenomenologies);
 - [...]
