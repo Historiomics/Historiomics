@@ -22,3 +22,15 @@
     - That is to say, they had to fail so that no one could prove whether it could exist or not, at least as far as the novel was concerned;
 - Coming back to reality, Historiomics is itself born from such creative work, and the question remains unanswered, but is mostly meant as a thought experiment: Can nations, peoples, entire societies or civilizations actually suffer from "Historiopathies"?;
     - Historiomics, amongst other things, wants to find out.
+
+### Structuration of Historical Landscapes - Geo-Grammatical Formations & Historical Figures
+- The model used in the novel to study History is a "structural" one;
+- That is to say, what we were looking at where the various figures, forms, formations, always at the structural, architectural or architectonic level;
+    - If History were a Building, then we would be talking about the Foundations, as well as all the structural elements, the beams and shafts and so forth;
+    - The idea was to try to envision History as made up of so many abstract forms;
+        - We gave the forms names, we spoke of "Geo-Grammar", we spoke of various "land masses";
+        - We spoke of Motifs, motifs as tectonics, of segments/segmentation, clusters, figural trajectories;
+        - In a sense, we were developing a kind of graphic notation to help us make statements about History and Historiography;
+    - Part of the inspiration was Michel Foucault's The Archaeology of Knowledge, as well as some of the work of Walter Benjamin, and some of the work of Gilles Deleuze and Félix Guattari, namely their book "What is Philosophy?";
+    - We spoke in terms of aggregation, compression, compaction, consolidation, but also dispersal, discontinuities, breaks and gaps in things; we spoke of convergence and divergence, schedules, bases, periodicity, habits, habitats and (in-)habitation; ("habitance");
+- [...]
