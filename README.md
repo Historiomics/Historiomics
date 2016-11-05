@@ -47,4 +47,5 @@
 - The reason that it occurs inside a novel forms another, higher-order theory of representation and what is called "Physio-Imaging", in the theory of "Crackland" or "Historiomics", a.k.a. The History-Project / The Archives-Project (novelistic phenomenologies);
 - [...]
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://twitter.com/historiomics" property="cc:attributionName" rel="cc:attributionURL">Historiomics</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Historiomics/Index" rel="dct:source">GITHUB @ HISTORIOMICS / INDEX</a>.
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
