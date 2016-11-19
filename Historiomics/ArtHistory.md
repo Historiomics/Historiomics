@@ -32,7 +32,9 @@
 - The holy image is read in terms of context, caption, and code [and concept].  Iconodules [worshippers of images] and iconoclasts [breakers of images]
 - Man makes a shadow to scare away demons [St.John of Damascus “Devils have feared the saints and have fled from their shadow.”  The shadow relates to a man, so an image relates to its subject.  And both the shadow and the image carry some of the force of their originals: If properly used, they might frighten off a demon.  Relate to Surrealism and the Cinema, the Projector… Vapors/Abysms...
 - A New Theory of Vision, pun, a new vision of theory… art theory, concepts in the mind: Renaissance [proportion, perspective, color, construction, building, whatever, research them], Medieval [dark, graven images, totem and taboo]...
+
 --------------------------------------------------------------------------------------------
+
 - Art history.  What is it?  What are the forms of art history research?  What makes up these forms?  The forms of art history must rightly be called the logic of art history, and the logic of art history falls under the heading the philosophy of art history.  Our discourse, then, follows from these points and leads us straight to the problem of mediation and technique in art history practise.  This text, however, is in the vicinity of film theory, because it is a visual text, a text of pictorial examples, moving pictures, text in cinema.  So we have the basic forms of art history under philosophy, and a textual cinema, cinematic prose, expositing the themes of art history pictorially.  Logic, philosophy, art historiography and film will be our four chapter headings.
 - Logic of art history:
 - In this chapter, I would show the practise of art history pictorially, with imagal examples of people working in the field of art history, doing research, and composing an art history text.  By the basic shapes of art history, those of shuffling, of expositing, of redoubling, I would come to the philosophy of art history which is the next chapter.
@@ -40,7 +42,9 @@
 - In this chapter I would discuss the metaphysic of art history, of the concepts of art history operating in the mind of the art historian and public reader.  I would explain the Dialectic of the philosophy of art history, style which is discursive, and the physics of art history [sight, physics of light, of wave motion].  I would include a thesis on a few of the Euclidian Isometries, namely, Rotation and Translation, explicating how they close in on one another to make up the basis on which art history stands.
 - The art history text:
 - In this section I would discuss the aesthetic experience of art history textuality.  The text would become more and more cinematic, exposing more and more viable images on which art history also stands.  I would give a briefing of the iconology of art, write a quick lexicon of art history terms and how the react with one another.  I would close the essay with a few thoughts on art history’s history and clench it up with ideas on the future of art history.
+
 ---------------------------------------
+
 - What do you think?
 - Three Common Modes
   - Inquiry 
