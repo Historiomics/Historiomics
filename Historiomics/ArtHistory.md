@@ -56,3 +56,6 @@
   - Modes of Relationship - As in Contingency, Arrangement, Association, Category, Principle, Reference, etc.
 - Copyright, Judiciary concerns, 
 - PRAGMATICS, SEMANTICS, SYNTACTICS: Charles W. Morris developed a three-part structure to clarify the nature of language. "Pragmatics" he defined as the study of the circumstances in which a communication takes place, ranging from purely material conditions like the presence or absence of noise to more intangible conditions like personal motivations or the relations between speaker and audience. Pragmatics is thus very close to context. "Semantics" he defined as the study of meaning in signs prior to their use in a particular statement. While this might suggest that a parallel can be drawn between semantics and iconography, Morris's term is more abstract and closer in meaning to interpretant and paradigm (sense 3), both of which can be embraced within the term content. "Syntactics" Morris defined as the study of rules of syntax or grammar (see also code [sense 2]), which to some extent is embraced within the term form.
+
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
