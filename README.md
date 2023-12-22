@@ -1,4 +1,6 @@
 # Historiomics
+*Stable Release v1.0.1* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10421351.svg)](https://doi.org/10.5281/zenodo.10421351)
+
 ### What is Historiomics?
 - If historiography is the first derivative of history, historiomics is the second derivative of history;
 - QUESTION: How does Historiomics differ from Cliometrics, Cliodynamics, or Historical Dynamics?;
